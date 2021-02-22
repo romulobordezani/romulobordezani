@@ -1,3 +1,4 @@
+![GitHub followers](https://img.shields.io/github/followers/romulobordezani?label=Follow%20Me%21&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/romulobordezani?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulobordezani/)](https://www.linkedin.com/in/romulobordezani/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulobordezani@gmail.com)](mailto:romulobordezani@gmail.com)
