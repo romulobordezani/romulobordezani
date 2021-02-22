@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulobordezani@gmail.com)](mailto:romulobordezani@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mulo.art)](https://www.instagram.com/mulo.art)
 
-- 🔭 I’m currently working on some PagSeguro's internal projects and adding GraphQL support on [Formoose](https://github.com/romulobordezani/formoose) 
+- 🔭 I’m currently working on some React, Express and Next.js based projects and adding GraphQL support on [Formoose](https://github.com/romulobordezani/formoose) 
 - 🌱 I’m currently learning GraphQL, Apollo and AWS Cognito integrations with Next.js
-- 👯 I’m looking to collaborate on JS crazy stuff 🥜 
-- 💬 Ask me about old and fashioned Rock and Roll 🤘
+- 👯 I’m looking to collaborate on JS crazy stuff
+- 💬 Ask me about old and fashioned Rock and Roll 🤘 and JS
 - 📫 How to reach me: https://romulobordezani.com.br
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm working on a 3D game called "The Last Unicorn" using Unity Engine with my daughter
