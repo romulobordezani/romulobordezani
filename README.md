@@ -1,4 +1,4 @@
-<img src="assets/bg.png" alt="Pens in a Darth Vader themed cup" style="width:100%;"/>
+<img src="assets/bg.png" alt="Pens in a Darth Vader themed cup" style="max-width: 100%; height: auto;"/>
  
 ![GitHub followers](https://img.shields.io/github/followers/romulobordezani?label=Follow%20Me%21&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/romulobordezani?style=social)
