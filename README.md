@@ -7,13 +7,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mulo.art)](https://www.instagram.com/mulo.art)
 [![dev.to](https://img.shields.io/badge/dev.to-romulobordezani-black)](https://dev.to/romulobordezani)
 
-- 🔭 I’m currently working on some React, Express and Next.js based projects and adding GraphQL support on [Formoose](https://github.com/romulobordezani/formoose) 
-- 🌱 Also working on side projects while learning:
-  * `(Unity, 3D, C#) => Indie Games`
-  * `(Serverless, GraphQL, Apollo, AWS Cognito, Next.js) => barcaburguer.com.br`
-  * `(painting techiniques, drawing, doodle art) => home office's mural`  
-- 👯 I’m looking to learn Vue.js
+- 🔭 I’m currently working Nest.js, Mongo and Camunda and adding GraphQL support on [Formoose](https://github.com/romulobordezani/formoose) in my spare time.
+- 🌱 Also working on side projects and learning about:
+  * `(Unity, 3D, C#) => Indie Game coming soon?`
+  * `(JamStack, Headless CMSs, AWS Serverless & Cognito) => New Blog on the way?`
+  * `(painting techiniques, color mastering, drawing and doodle arts) => Artist stuff on Instagram - Check it out!`
+- 💡 I’m looking to improve my Vue.js skills some how, but only getting React and Angular stuff to join ¯\_(ツ)_/¯ 
 - 💬 Ask me about old and fashioned blues and Rock and Roll 🤘
 - 📫 How to reach me: [https://beacons.page/romulobordezani](https://beacons.page/romulobordezani)
-- 😄 Pronouns: He/Him/His
-- 🤡 Fun fact: I'm a certified clown. Please show some respect to my Dad Jokes.
+- 🧑‍🤝‍🧑 Pronouns: He/Him/His
+- 🤡 Fun fact: I'm called Lethal Friend in the on line games scene, but believe me, it's not related to killing others players... It's about dying all the times 😄
