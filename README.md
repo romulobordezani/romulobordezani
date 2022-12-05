@@ -12,7 +12,7 @@
 
 ---
 
-- [Formoose](https://github.com/romulobordezani/formoose), the `npm lib` I staretd to integrate `Mongo schemas` and `Front-end forms` validations, is still in progress and accepting contributtions and issues.
+- [Formoose](https://github.com/romulobordezani/formoose), the `npm lib` I started to integrate `Mongo schemas` and `Front-end forms` validations, is still in progress and accepting contributtions and issues.
 
 --- 
 - 🌱 Also working on side projects and learning about:
