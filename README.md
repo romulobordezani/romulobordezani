@@ -1,6 +1,3 @@
-<img src="assets/header-git.png" alt="Header image with my face and my name." width="100%" />
-
-
 ![GitHub followers](https://img.shields.io/github/followers/romulobordezani?label=Follow%20Me%21&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/romulobordezani?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulobordezani/)](https://www.linkedin.com/in/romulobordezani/) 
@@ -8,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mulo.art)](https://www.instagram.com/mulo.art)
 [![dev.to](https://img.shields.io/badge/dev.to-romulobordezani-black)](https://dev.to/romulobordezani)
 
--  🔭I’m currently looking for a job, please [contact me](mailto:romulobordezani@gmail.com) if you have open positions which I could fit 🍀.
+-  Web full stack developer at @avenuecode, working for @newsela - [contact me](mailto:romulobordezani@gmail.com) if you think I could be a good fit for a new position or project 🍀.
 
 ---
 
