@@ -1,3 +1,5 @@
+![Deploy](https://raw.githubusercontent.com/romulobordezani/romulobordezani/0aab7ea86101ee4ee73582575873d4cfcad5fed8/assets/deploy_cover.jpeg)
+</br></br>
 ![GitHub followers](https://img.shields.io/github/followers/romulobordezani?label=Follow%20Me%21&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/romulobordezani?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulobordezani/)](https://www.linkedin.com/in/romulobordezani/) 
