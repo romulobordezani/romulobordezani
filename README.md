@@ -1,13 +1,16 @@
-![Deploy](https://raw.githubusercontent.com/romulobordezani/romulobordezani/0aab7ea86101ee4ee73582575873d4cfcad5fed8/assets/deploy_cover.jpeg)
+![Deploy](https://raw.githubusercontent.com/romulobordezani/romulobordezani/0aab7ea86101ee4ee73582575873d4cfcad5fed8/assets/deploy_cover.png)
 </br></br>
 ![GitHub followers](https://img.shields.io/github/followers/romulobordezani?label=Follow%20Me%21&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/romulobordezani?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulobordezani/)](https://www.linkedin.com/in/romulobordezani/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulobordezani@gmail.com)](mailto:romulobordezani@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mulo.art)](https://www.instagram.com/mulo.art)
 [![dev.to](https://img.shields.io/badge/dev.to-romulobordezani-black)](https://dev.to/romulobordezani)
 
-## Hello 👋 That's great you made your way to find me! 
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulobordezani/)](https://www.linkedin.com/in/romulobordezani/) 
+-->
+
+## Hello 👋 I'm glad to see that you made your way to reach me here! 
 
 I'm a web developer who has been helping companies to make their services and products accessible, turning codes into memorable experiences since 2002. 
 
